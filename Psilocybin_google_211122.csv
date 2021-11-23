@@ -1,0 +1,176 @@
+Donor,Date,User,Slice ID,File,FileLocation,LIMS 20x,Fill,Fill match ttype,LIMS 63x,Slice notes,Slice health,Brain Region,Depth in slice,Depth from pia,Cell type,Layer estimate,Layer confirmation in LIMS,Location in slice,tube ID,Additional comments,Slice/well number,Well ID # (fix),Experiment type,Drug Treatment,5-HT date
+,210114,lindsayn,562577.11.06,Vip-IRES-Cre;Sst-IRES-FlpO;Ai193-hyg-562577.11.06.01,,,,,,,3,VISp,40,,pyramidal,2/3,,,P8S4_210114_351_A01,,,,stability practice,,
+,210114,lindsayn,561512.02.09,Slc17a7-IRES2-Cre;Ai14-561512.02.09.01,,,,,,,3,VISp,40,,pyramidal,2/3,,,P8S4_210114_352_A01,,,,stability practice,,
+,210119,lindsayn,561991.02.09,Slc17a6-IRES-Cre;Ai14-561991.02.09.01,,,,,,,3,VISp,40,,pyramidal,2/3,,,P8S4_210119_351_A01,,,,stability practice,,
+,210119,lindsayn,561991.02.09,Slc17a6-IRES-Cre;Ai14-561991.02.09.02,,,,,,,3,VISp,40,,pyramidal,2/3,,,P8S4_210119_352_A01,,,,stability practice,,
+,210121,lindsayn,563882.11.06,Vip-IRES-Cre;Pvalb-T2A-FlpO;Ai193-hyg-563882.11.06.01,,,,,,,3,MOp,40,,pyramidal,2/3,,,P8S4_210121_351_A01,,,EPhys_210125_01_A01_M,stability practice,,
+,210121,lindsayn,563882.11.06,Vip-IRES-Cre;Pvalb-T2A-FlpO;Ai193-hyg-563882.11.06.02,,sent,,,,,3,MOp,40,,pyramidal,2/3,,,P8S4_210121_352_A01,,,EPhys_210125_01_A01_M,drug wash-in,50uM 5-HT,Nov 2020
+,210126,lindsayn,562819.18.09,Slc17a6-IRES-Cre;Ai14-562819.18.09.01,,,,,,,3,MOp,40,,pyramidal,2/3,,,,,,,stability practice,,
+,210126,lindsayn,562819.18.09,Slc17a6-IRES-Cre;Ai14-562819.18.09.02,,,,,,,3,MOp,40,,pyramidal,2/3,,,,,,,stability practice,,
+H21.03.302,210126,lindsayn,H21.03.302.11.04.01,H21.03.302.11.04.01.01,,http://lims2/drawing_tool?image_series=1082718550,n,,,,3,temporal parietal,40,,pyramidal,3,,,P8S4_210126_351_A01,,,HCT_210125_41_B03_H,drug wash-in,50uM 5-HT,Jan 2021
+,210127,lindsayn,563068.10.10,Slc17a6-IRES-Cre;Ai14-563068.10.10.01,,,,,,,2,MOp,40,584,pyramidal,2/3,,,,,,,stability practice,,
+,210127,lindsayn,563068.12.10,Slc17a6-IRES-Cre;Ai14-563068.12.10.01,,,,,,,2,MOp,40,430,pyramidal,2/3,,,,,,,stability practice,,
+Q21.26.003,210127,lindsayn,Q21.26.003.12.01,Q21.26.003.12.01.01,,,,,,,3,STRdPu,40,,MSN,,,,PXS4_210127_351_A01,,,,stability practice,,
+,210201,lindsayn,564186.07.09,Slc17a6-IRES-Cre;Ai14-564186.07.09.01,,,,,,,3,MOp,40,,pyramidal,2/3,,,,,,,stability practice,,
+,210201,lindsayn,564186.11.09,Slc17a6-IRES-Cre;Ai14-564186.11.09.01,,,,,,,3,MOp,40,474,pyramidal,2/3,,,,,,,stability practice,,
+,210203,lindsayn,564524.07.09,Sst-IRES-Cre;Ai14-564524.07.09.01,,,,,,,3,MOp,40,,pyramidal,2/3,,,,,,,stability practice,,
+,210204,lindsayn,565533.11.06,Sst-IRES-Cre;Pvalb-T2A-FlpO;Ai193-hyg-565533.11.06.01,,,,,,,3,VISp,40,,pyramidal,2/3,,,,,,,stability practice,,
+,210204,lindsayn,565533.12.06,Sst-IRES-Cre;Pvalb-T2A-FlpO;Ai193-hyg-565533.12.06.01,,,,,,,3,VISp,40,,interneuron?,2/3,,,,,,,stability practice,,
+,210209,lindsayn,565032.11.09,Slc17a7-IRES2-Cre;Ai14-565032.11.09.01,,,,,,,3,MOp,40,,pyramidal,2/3,,,,,,,stability practice,,
+,210209,lindsayn,565032.12.09,Slc17a7-IRES2-Cre;Ai14-565032.12.09.01,,,,,,,3,MOp,40,,pyramidal,2/3,,,,,,,stability practice,,
+Q21.26.005,210209,lindsayn,Q21.26.005.11.08,Q21.26.005.11.08.01,,,,,,,3,TCx,70,,pyramidal,3,,,PYS4_210209_351_A01,,,HCT_210208_01_A04_Q,drug wash-in,50uM 5-HT,Jan 2021
+,210210,lindsayn,565033.11.10,Slc17a7-IRES2-Cre;Ai14-565033.11.10.01,,http://lims2/drawing_tool?image_series=1086424477,y,,,,3,MOp,50,,pyramidal,2/3,,,PYS4_210210_351_A01,,,EPhys_210208_01_B02_M,drug wash-in,50uM 5-HT,Jan 2021
+,210210,lindsayn,564742.11.10,Vip-IRES-Cre;Ai14-564742.11.10.01,,http://lims2/drawing_tool?image_series=1086424539,n,,,,4,MOp,40,,pyramidal,2/3,,,PYS4_210210_352_A01,,,EPhys_210208_01_B03_M,drug wash-in,50uM 5-HT,Jan 2021
+,210211,lindsayn,565564.11.06,Tlx3-Cre_PL56;Ai140;Pvalb-T2A-FlpO;Ai65F-565564.11.06.01,,,,,,,2,VISp,40,,pyramidal,2/3,,,,,,,stability practice,,
+H21.03.304,210216,lindsayn,H21.03.304.11.05.01,H21.03.304.11.05.01.01,,http://lims2/drawing_tool?image_series=1087742109,n,,,,3,TCx,60,742,pyramidal,3,,,PYS4_210216_351_A01,,,HCT_210215_41_A04_H,drug wash-in,50uM 5-HT,Feb 2021
+H21.03.304,210216,lindsayn,H21.03.304.11.05.02,H21.03.304.11.05.02.01,,http://lims2/drawing_tool?image_series=1087742346,y,,,,3,TCx,50,686,pyramidal,3,,,PYS4_210216_352_A01,,,HCT_210215_41_B02_H,drug wash-in,50uM 5-HT,Feb 2021
+H21.03.304,210216,lindsayn,H21.03.304.11.06.01,H21.03.304.11.06.01.01,,http://lims2/drawing_tool?image_series=1087742706,y,,,,3,TCx,100,480,pyramidal,3,,,PYS4_210216_353_A01,,,HCT_210215_41_B04_H,drug wash-in,50uM 5-HT,Feb 2021
+,210218,lindsayn,565384.07.09,Slc17a8-iCre;Ai14-565384.07.09.01,,http://lims2/drawing_tool?image_series=1089018406,y,,,,3,MOp,60,,pyramidal,2/3,,,PYS4_210218_351_A01,,,EPhys_210222_01_A02_M,drug wash-in,50uM 5-HT,Feb 2021
+,210218,lindsayn,565384.06.09,Slc17a8-iCre;Ai14-565384.06.09.01,,,,,,,3,MOp,60,,pyramidal,2/3,,,,,,na,drug wash-in,50uM 5-HT,Feb 2021
+,210223,lindsayn,566833.12.10,Esr2-IRES2-Cre;Ai14-566833.12.10.01,,http://lims2/drawing_tool?image_series=1089019459,n,,,,3,MOp,60,,pyramidal,2/3,,,PYS4_210223_351_A01,weird,,EPhys_210222_01_C02_M,drug wash-in,50uM 5-HT,Feb 2021
+,210223,lindsayn,566833.11.10,Esr2-IRES2-Cre;Ai14-566833.11.10.01,,http://lims2/drawing_tool?image_series=1089019891,n,,,,3,MOp,60,,pyramidal,2/3,,,PYS4_210223_352_A01,weird,,EPhys_210222_01_C04_M,drug wash-in,50uM 5-HT,Feb 2021
+,210223,lindsayn,566833.10.10,Esr2-IRES2-Cre;Ai14-566833.10.10.01,,,,,,,3,MOp,60,,pyramidal,2/3,,,,weird,,na,drug wash-in,50uM 5-HT,Jan 2021
+,210224,lindsayn,568308.10.06,Pvalb-IRES-Cre;Ai14-568308.10.06.01,,http://lims2/drawing_tool?image_series=1089020575,y,,,,3,VISp,40,,pyramidal,2/3,,,PYS4_210224_351_A01,,,EPhys_210222_02_B04_M,drug wash-in,50uM 5-HT,Feb 2021
+H21.06.351,210224,lindsayn,H21.06.351.11.04.01,H21.06.351.11.04.01.01,,http://lims2/drawing_tool?image_series=1089017813,y,,,,2,TCx,,,pyramidal,3,,,PYS4_210224_352_A01,,,HCT_210222_41_A04_H,drug wash-in,50uM 5-HT,Feb 2021
+,210226,lindsayn,567006.12.10,Chat-IRES-Cre-neo;Ai14-567006.12.10.01,,http://lims2/drawing_tool?image_series=1091060485,y,,,,3,MOp,40,258,pyramidal,2/3,,,PYS4_210226_351_A01,,,EPhys_210301_01_A01_M,drug wash-in,50uM 5-HT,Feb 2021
+,210226,lindsayn,567006.11.10,Chat-IRES-Cre-neo;Ai14-567006.11.10.01,,http://lims2/drawing_tool?image_series=1091060758,y,,,,3,MOp,56,417,pyramidal,2/3,,,PYS4_210226_352_A01,,,EPhys_210301_01_A03_M,drug wash-in,50uM 5-HT,Feb 2021
+H21.03.305,210309,lindsayn,H21.03.305.11.07.01,H21.03.305.11.07.01.01,good!,http://lims2/drawing_tool?image_series=1093234247,y,,,,4,TCx,50,1306,pyramidal,3c,,,PYS4_210309_351_A01,lots of synaptic activity,,HCT_210308_41_A02_H,drug wash-in,50uM 5-HT,Feb 2021
+H21.03.305,210309,lindsayn,H21.03.305.11.07.02,H21.03.305.11.07.02.01,good!,http://lims2/drawing_tool?image_series=1093234273,y,,,,4,TCx,110,859,pyramidal,3b,,,PYS4_210309_352_A01,lots of synaptic activity,,HCT_210308_41_A03_H,drug wash-in,50uM 5-HT,Feb 2021
+,210311,lindsayn,570902.11.06,Sst-IRES-Cre;Pvalb-T2A-FlpO;Ai193-hyg-570902.11.06.01,,http://lims2/drawing_tool?image_series=1093229484,y,,,,4,MOp,52,607,pyramidal,2/3,,,PYS4_210311_351_A01,,,EPhys_210308_02_B01_M,drug wash-in,50uM 5-HT,Feb 2021
+H21.03.306,210316,lindsayn,H21.03.306.11.10.01,H21.03.306.11.10.01.01,,,,,,,3,TCx,90,1086,pyramidal?,3c,,,,,,na,drug wash-in,50uM 5-HT,March 2021
+H21.03.306,210316,lindsayn,H21.03.306.11.10.02,H21.03.306.11.10.02.01,,,,,,,2,TCx,100,759,pyramidal,3b,,,,,,na,drug wash-in,50uM 5-HT,March 2021
+H21.03.307,210330,lindsayn,H21.03.307.11.03.01,H21.03.307.11.03.01.01,,,,,,,2,TCx,50,1472,pyramidal,5,,,,slice out of plane,,na,drug wash-in,50uM 5-HT,March 2021
+,210330,lindsayn,571416.02.09,Slc17a6-IRES-Cre;Ai14-571416.02.09.01,,,,,,,2,VISp,42,241,pyramidal,2/3,,,,,,na,drug wash-in,50uM 5-HT,March 2021
+Q21.26.008,210330,lindsayn,Q21.26.008.11.03,Q21.26.008.11.03.01,,http://lims2/drawing_tool?image_series=1096460964,y,,,,3,TCx,40,530,pyramidal,3,,,PYS4_210330_351_A01,,,HCT_210329_41_A04_Q,drug wash-in,50uM 5-HT,March 2021
+,210402,lindsayn,571901.14.10,Rorb-IRES2-Cre-neo;Ai14-571901.14.10.01,,http://lims2/drawing_tool?image_series=1097963072,y,,,,4,TEa,54,424,pyramidal,3,,,PYS4_210402_351_A01,,,EPhys_210405_01_A04_M,drug wash-in,50uM 5-HT,March 2021
+,210406,lindsayn,,Th-P2A-FlpO;Ai65-572288.02.09.01,,http://lims2/drawing_tool?image_series=1097963830,y,,,,3,PL,70,303,pyramidal,2/3,,,PYS4_210406_351_A01,,,EPhys_210405_01_C01_M,stability practice,,
+,210406,lindsayn,,Sst-IRES-Cre;Ai14-572057.04.10.01,,http://lims2/drawing_tool?image_series=1097963867,y,,,,4,PL,58,280,pyramidal,2/3,,,PYS4_210406_352_A01,,,EPhys_210405_01_C02_M,stability practice,,
+,210406,lindsayn,,Sst-IRES-Cre;Ai14-572057.04.10.02,,http://lims2/drawing_tool?image_series=1097963867,y,,,,4,PL,45,259,pyramidal,2/3,,,PYS4_210406_353_A01,,,EPhys_210405_01_C02_M,drug wash-in,50uM 5-HT,4/6/21
+,210406,lindsayn,,Sst-IRES-Cre;Ai14-572057.03.10.01,5,http://lims2/drawing_tool?image_series=1097964027,y,,,,4,PL,65,320,pyramidal,2/3,,,PYS4_210406_354_A01,,,EPhys_210405_02_A02_M,drug wash-in,50uM 5-HT,4/6/21
+H21.03.309,210413,lindsayn,,H21.03.309.11.05.01.01,,http://lims2/drawing_tool?image_series=1099363351,y,,,,5,TCx,80,1049,pyramidal,3,,,PYS4_210413_351_A01,,,HCT_210412_41_A01_H,drug wash-in,50uM 5-HT,4/6/21
+H21.03.309,210413,lindsayn,,H21.03.309.11.05.02.01,,http://lims2/drawing_tool?image_series=1099364530,y,,,,4,TCx,80,641,pyramidal,3,,,PYS4_210413_352_A01,,,HCT_210412_41_A02_H,drug wash-in,50uM 5-HT,4/6/21
+H21.03.309,210414,lindsayn,,H21.03.309.11.08.01.01,,,,,,,2,TCx,67,795,pyramidal,3,,,,"second day acute slice, not very healthy",,na,drug wash-in,50uM 5-HT,4/6/21
+,210414,lindsayn,,Q21.26.009.11.03.01,,http://lims2/drawing_tool?image_series=1099361507,n,,,,3,TCx,100,620,pyramidal,3,,,PYS4_210414_351_A01,,,HCT_210412_41_B01_H,drug wash-in,50uM 5-HT,4/14
+,210414,lindsayn,,Q21.26.009.11.13.01,,http://lims2/drawing_tool?image_series=1099361848,y,,,,3,TCx,40,648,pyramidal,3,,,PYS4_210414_352_A01,,,HCT_210412_41_B02_H,drug wash-in,50uM 5-HT,4/14
+,210420,lindsayn,,Gad2-IRES-Cre;Ai14-574193.05.10.01,,http://lims2/drawing_tool?image_series=1100781602,n,,,,3,ILA,68,350,pyramidal,2/3,,,PYS4_210420_351_A01,,,EPhys_210419_01_B04_M,drug wash-in,50uM psilocybin,
+,210420,lindsayn,,Gad2-IRES-Cre;Ai14-574193.04.10.01,5,http://lims2/drawing_tool?image_series=1100781641,y,y,,,3,PL,80,380,pyramidal,2/3,,,PYS4_210420_352_A01,,,EPhys_210419_01_C01_M,drug wash-in,50uM psilocybin,
+H21.03.310,210420,lindsayn,,H21.03.310.11.08.01.01,3,http://lims2/drawing_tool?image_series=1100780562,y,n,,,3,TCx,100,1389,pyramidal,3c,,,PYS4_210420_353_A01,depolarized during wash in,,HCT_210419_41_A01_H,drug wash-in,50uM psilocybin,
+H21.03.310,210420,lindsayn,,H21.03.310.11.08.02.01,3,http://lims2/drawing_tool?image_series=1100780653,y,n,,,3,TCx,83,1125,pyramidal,3,,,PYS4_210420_354_A01,,,HCT_210419_41_A02_H,drug wash-in,50uM psilocybin,
+H21.03.310,210421,lindsayn,,H21.03.310.11.07.01.01,3,http://lims2/drawing_tool?image_series=1100780733,y,y,,,3,TCx,90,1318,pyramidal,3,,,PYS4_210421_351_A01,second day acute,,HCT_210419_41_A04_H,drug wash-in,50uM psilocybin,
+,210421,lindsayn,,Gad2-IRES-Cre;Ai14-574194.03.10.01,5,http://lims2/drawing_tool?image_series=1100781781,y,y,,,3,PL,80,566,pyramidal,3,,,PYS4_210421_352_A01,,,EPhys_210419_01_C04_M,drug wash-in,50uM psilocybin,
+,210427,lindsayn,,Th-P2A-FlpO;Ai65-575279.02.01.01,5,http://lims2/drawing_tool?image_series=1102366947,n,?,,,3,PL,60,419,pyramidal,3,,,PYS4_210427_351_A01,,,EPhys_210426_02_A01_M,drug wash-in,50uM psilocybin,
+,210427,lindsayn,,Chat-IRES-Cre-neo;Ai14-576498.04.03.01,5,http://lims2/drawing_tool?image_series=1102367188,y,y,,,3,ILA,40,603,pyramidal,3,,,PYS4_210427_352_A01,,,EPhys_210426_02_A02_M,drug wash-in,50uM psilocybin,
+,210427,lindsayn,,H21.03.311.11.06.01.01,3,http://lims2/drawing_tool?image_series=1102370276,y,y,,,3,FTCx,55,729,pyramidal,3,,,PYS4_210427_353_A01,,,HCT_210426_41_A02_H,drug wash-in,50uM psilocybin,
+,210427,lindsayn,,H21.03.311.11.06.02.01,3,http://lims2/drawing_tool?image_series=1102370323,y,y,,,3,FTCx,55,740,pyramidal,3,,,PYS4_210427_354_A01,,,HCT_210426_41_A03_H,drug wash-in,50uM psilocybin,
+,210428,lindsayn,,H21.03.311.11.08.01.01,3,http://lims2/drawing_tool?image_series=1102370539,n,y,,,3,FTCx,63,522,pyramidal,3,,,PYS4_210428_351_A01,second day acute,,HCT_210426_41_B01_H,drug wash-in,50uM psilocybin,
+,210505,lindsayn,,Ntsr1-Cre_GN220;Ai14-576034.04.04.01,,,,,,,3,PL,62,357,pyramidal,3,,,PYS4_210505_351_A01,,,na,drug wash-in,50uM psilocin,
+,210505,lindsayn,,Ntsr1-Cre_GN220;Ai14-576034.04.03.01,,,,,,,3,PL,45,305,pyramidal,3,,,PYS4_210505_352_A01,unstable during wash in,,na,drug wash-in,50uM psilocin,
+,210505,lindsayn,,C57BL6J-576333.05.03.01,5,http://lims2/drawing_tool?image_series=1103826249,y,y,,,3,PL,50,570,pyramidal,3,,,PYS4_210505_353_A01,,,EPhys_210503_02_A02_M,drug wash-in,50uM psilocin,
+,210507,lindsayn,,C57BL6J-576332.05.03.01,2/3,http://lims2/drawing_tool?image_series=1105098312,y,n,,,3,PL,50,400,pyramidal,3,,,PYS4_210507_351_A01,low sampling setting,,EPhys_210510_01_A02_M,drug wash-in,50uM psilocin,
+,210507,lindsayn,,Ntsr1-Cre_GN220;Ai14-576031.02.03.01,,,,,,,3,PL,60,416,pyramidal,3,,,PYS4_210507_352_A01,low sampling setting,,na,drug wash-in,50uM psilocin,
+,210507,lindsayn,,Ntsr1-Cre_GN220;Ai14-576031.02.04.01,5,http://lims2/drawing_tool?image_series=1105098387,y,y,,,3,PL,45,350,pyramidal,3,,,PYS4_210507_353_A01,depolarized during wash in,,EPhys_210510_01_A04_M,drug wash-in,50uM psilocin,
+,210511,lindsayn,,Slc17a6-IRES-Cre;Ai14-576811.03.01.01,2/3,http://lims2/drawing_tool?image_series=1105099424,y,n,,,3,PL,45,353,pyramidal,3,,,PYS4_210511_351_A01,spikes increase during washin,,EPhys_210510_01_C01_M,drug wash-in,50uM psilocin,
+,210511,lindsayn,,Sst-IRES-Cre;Ai14-577301.02.03.01,,,,,,,3,PL,60,290,pyramidal,3,,,PYS4_210511_352_A01,,,na,drug wash-in,50uM psilocin,
+,210518,lindsayn,,Slc17a6-IRES-Cre;Ai14-578133.05.03.01,2/3,http://lims2/drawing_tool?image_series=1106772388,y,,.,,3,PL,50,370,pyramidal,3,,,PYS4_210518_351_A01,,,EPhys_210517_01_B04_M,drug wash-in,50uM psilocin,
+,210518,lindsayn,,Slc17a6-IRES-Cre;Ai14-578133.05.04.01,,,,,,,2,PL,45,126,pyramidal,3,,,PYS4_210518_352_A01,,,na,drug wash-in,50uM psilocin,
+,210518,lindsayn,,Slc17a6-IRES-Cre;Ai14-578133.08.04.01,5,http://lims2/drawing_tool?image_series=1106772655,y,,,,2,PL,55,320,pyramidal,3,,,PYS4_210518_353_A01,,,EPhys_210517_01_B06_M,drug wash-in,50uM psilocin,
+,210518,lindsayn,,Slc17a6-IRES-Cre;Ai14-578133.03.03.01,2/3,http://lims2/drawing_tool?image_series=1106772692,n,,,,3,PL,45,207,pyramidal,3,,,PYS4_210518_354_A01,,,EPhys_210517_01_C01_M,drug wash-in,50uM psilocin,
+,210519,lindsayn,,Htr3a-Cre_NO152;Ai14-578483.05.03.01,,,,,,,3,PL,45,290,pyramidal,3,,,PYS4_210519_351_A01,,,na,drug wash-in,50uM psilocybin,
+,210519,lindsayn,,Htr3a-Cre_NO152;Ai14-578483.05.04.01,,,,,,,3,PL,45,163,pyramidal,3,,,PYS4_210519_352_A01,depolarized during wash in,,na,drug wash-in,50uM psilocybin,
+,210519,lindsayn,,Pvalb-IRES-Cre;Ai14-577974.06.04.01,,,,,,,3,PL,50,260,pyramidal,3,,,PYS4_210519_353_A01,,,na,drug wash-in,50uM psilocybin,
+,210521,lindsayn,,Slc17a6-IRES-Cre;Ai14-578138.05.03.01,2/3,http://lims2/drawing_tool?image_series=1108122005,n,,,,3,PL,55,325,pyramidal,3,,,PYS4_210521_351_A01,,,EPhys_210524_01_A05_M,drug wash-in,50uM psilocin,
+,210521,lindsayn,,Pvalb-IRES-Cre;Ai14-577972.04.04.01,5,http://lims2/drawing_tool?image_series=1108122233,y,,,,3,PL,45,220,pyramidal,3,,,PYS4_210521_352_A01,,,EPhys_210524_01_B01_M,drug wash-in,50uM psilocin,
+,210521,lindsayn,,Pvalb-IRES-Cre;Ai14-577972.05.03.01,2/3,http://lims2/drawing_tool?image_series=1108122407,y,,,,3,PL,50,220,pyramidal,3,,,PYS4_210521_353_A01,,,EPhys_210524_01_B02_M,drug wash-in,50uM psilocin,
+,210525,lindsayn,,Vip-IRES-Cre;Ai14-579328.05.03.01,5,http://lims2/drawing_tool?image_series=1108123479,y,,,,3,PL,55,280,pyramidal,3,,,PYS4_210525_351_A01,,,EPhys_210524_01_C06_M,drug wash-in,50uM psilocybin,
+,210525,lindsayn,,Vip-IRES-Cre;Ai14-579328.04.03.01,2/3,http://lims2/drawing_tool?image_series=1108123516,n,,,,3,PL,45,220,pyramidal,3,,,PYS4_210525_352_A01,,,EPhys_210524_01_D01_M,drug wash-in,50uM psilocybin,
+,210525,lindsayn,,Vip-IRES-Cre;Ai14-579328.04.04.01,,,,,,,3,PL,55,180,pyramidal,3,,,PYS4_210525_353_A01,could not finish chirp,,na,drug wash-in,50uM psilocybin,
+,210526,lindsayn,,Vip-IRES-Cre;Ai14-579326.05.03.01,2/3?,http://lims2/drawing_tool?image_series=1108123978,y,,,,3,PL,50,270,pyramidal,3,,,PYS4_210526_351_A01,,,EPhys_210524_01_D06_M,drug wash-in,50uM psilocybin,
+,210526,lindsayn,,Vip-IRES-Cre;Ai14-579326.04.03.01,2/3,http://lims2/drawing_tool?image_series=1108124276,y,,,,3,PL,50,250,pyramidal,3,,,PYS4_210526_352_A01,,,EPhys_210524_02_A03_M,drug wash-in,50uM psilocybin,
+,210602,lindsayn,,Gad2-IRES-Cre;Ai14-579337.01.01.01,2/3,http://lims2/drawing_tool?image_series=1109314390,n,,,,3,VISp,55,287,pyramidal,3,,,PYS4_210602_351_A01,depolarized durign washin and repeat,,EPhys_210531_01_C06_M,drug wash-in,50uM psilocybin,
+,210602,lindsayn,,Sst-IRES-Cre;Ai14-579951.04.03.01,2/3?,http://lims2/drawing_tool?image_series=1109314582,n,,,,3,PL,45,280,pyramidal,3,,,PYS4_210602_352_A01,,,EPhys_210531_01_D01_M,drug wash-in,50uM psilocybin,
+,210602,lindsayn,,Sst-IRES-Cre;Ai14-579951.05.04.01,,,,,,,3,PL,45,290,pyramidal,3,,,,,,na,drug wash-in,50uM psilocybin,
+,210608,lindsayn,,Vip-IRES-Cre;Ai14-580200.04.02.01,5,http://lims2/drawing_tool?image_series=1110615308,m,,,,3,PL,50,340,pyramidal,3,,,,lower in slice,,EPhys_210607_01_C03_M,control,,
+,210608,lindsayn,,Vip-IRES-Cre;Ai14-580200.04.02.02,5,http://lims2/drawing_tool?image_series=1110615308,m,,,,3,PL,50,300,pyramidal,3,,,PYS4_210608_351_A01,higher in slice,,EPhys_210607_01_C03_M,drug wash-in,50uM psilocin,
+,210608,lindsayn,,C57BL6J-581851.05.03.01,,,,,,,3,PL,40,273,pyramidal,3,,,,,,na,control,,
+,210608,lindsayn,,C57BL6J-581851.05.03.02,,,,,,,3,PL,40,260,pyramidal,3,,,,not healthy,,na,drug wash-in,50uM psilocin,
+,210609,lindsayn,,Gad2-IRES-Cre;Ai14-580682.05.10.01,,,,,,,3,PL,50,255,pyramidal,3,,,,,,na,control,,
+,210609,lindsayn,,Gad2-IRES-Cre;Ai14-580682.06.10.01,2/3,http://lims2/drawing_tool?image_series=1110615609,n,,,,3,PL,50,250,pyramidal,3,,,PYS4_210609_351_A01,,,EPhys_210607_01_D03_M,drug wash-in,50uM psilocybin,
+,210609,lindsayn,,C57BL6J-581843.04.03.01,,,,,,,3,PL,50,,pyramidal,3,,,PYS4_210609_352_A01,,,na,drug wash-in,50uM psilocybin,
+,210616,lindsayn,,C57BL6J-581848.04.03.01,,,,,,,3,PL,50,220,pyramidal,3,,,PYS4_210616_351_A01,,,na,drug wash-in,50uM psilocybin,
+,210616,lindsayn,,C57BL6J-581848.05.03.01,2/3,http://lims2/drawing_tool?image_series=1112126500,y,,,,3,PL,60,277,pyramidal,3,,,PYS4_210616_352_A01,,,EPhys_210614_01_C06_M,drug wash-in,50uM psilocybin,
+,210616,lindsayn,,C57BL6J-581848.05.04.01,,,,,,,3,PL,40,280,pyramidal,3,,,,,,na,control,,
+,210622,lindsayn,,Sst-IRES-Cre;Ai14-581874.05.10.01,5,http://lims2/drawing_tool?image_series=1113538854,y,,,,3,PL,45,317,pyramidal,3,,,PYS4_210622_351_A01,,,EPhys_210621_01_C02_M,drug wash-in,50uM psilocin,
+,210622,lindsayn,,Sncg-IRES2-FlpO-neo;Ai65F-582323.05.03.01,2/3,http://lims2/drawing_tool?image_series=1113538933,y,,,,3,PL,80,192,pyramidal,3,,,PYS4_210622_352_A01,,,EPhys_210621_01_C04_M,drug wash-in,50uM psilocin,
+,210622,lindsayn,,Sncg-IRES2-FlpO-neo;Ai65F-582323.04.03.01,2/3,http://lims2/drawing_tool?image_series=1113538971,n,,,,3,PL,55,302,pyramidal,3,,,PYS4_210622_353_A01,,,EPhys_210621_01_C05_M,drug wash-in,50uM psilocin,
+,210622,lindsayn,,H21.03.312.11.04.01.01,2/3,http://lims2/drawing_tool?image_series=1113536893,n,,,,2,FCx,100,690,pyramidal,3,,,PYS4_210622_354_A01,,,HCT_210621_41_A04_H,drug wash-in,50uM psilocin,
+,210622,lindsayn,,H21.03.312.11.04.02.01,2/3,http://lims2/drawing_tool?image_series=1113537138,y,,,,2,FCx,50,600,pyramidal,3,,,PYS4_210622_355_A01,,,HCT_210621_41_C01_H,drug wash-in,50uM psilocin,
+,210623,lindsayn,,H21.03.312.11.07.01.01,2/3,http://lims2/drawing_tool?image_series=1113537302,n,,,,2,FCx,55,630,pyramidal,3,,,PYS4_210623_351_A01,dep? 2nd day human,,HCT_210621_41_C04_H,drug wash-in,50uM psilocin,
+,210623,lindsayn,,H21.03.312.11.07.02.01,2/3,http://lims2/drawing_tool?image_series=1113537392,y,,,,2,FCx,70,807,pyramidal,3,,,PYS4_210623_352_A01,2nd day human,,HCT_210621_42_A02_H,drug wash-in,50uM psilocin,
+,210623,lindsayn,,H21.03.312.11.05.02.01,2/3,http://lims2/drawing_tool?image_series=1113537501,y,,,,2,FCx,65,500,pyramidal,3,,,PYS4_210623_353_A01,2nd day human,,HCT_210621_42_A04_H,drug wash-in,50uM psilocin,
+,210629,lindsayn,,Chat-IRES-Cre-neo;Ai14-582721.04.03.01,2/3,http://lims2/drawing_tool?image_series=1114838234,y,,,,4,PL,55,236,pyramidal,3,,,PYS4_210629_351_A01,,,EPhys_210628_01_A06_M,drug wash-in,50uM psilocin,
+,210629,lindsayn,,Vip-IRES-Cre;Ai14-584469.06.10.01,2/3,http://lims2/drawing_tool?image_series=1114839034,y,,,,4,PL,55,228,pyramidal,3,,,PYS4_210629_352_A01,,,EPhys_210628_01_B02_M,drug wash-in,50uM psilocin,
+,210629,lindsayn,,Chat-IRES-Cre-neo;Ai14-582721.05.03.01,,,,,,,3,PL,45,240,pyramidal,3,,,PYS4_210629_353_A01,,,na,drug wash-in,50uM psilocin,
+,210630,lindsayn,,Rbp4-Cre_KL100;Ai14-582710.02.01.01,2/3,http://lims2/drawing_tool?image_series=1114839159,n,,,,3,VISp,53,256,pyramidal,3,,,PYS4_210630_351_A01,,,EPhys_210628_01_B03_M,drug wash-in,50uM psilocybin,
+,210630,lindsayn,,Chat-IRES-Cre-neo;Ai14-582722.04.03.01,2/3,http://lims2/drawing_tool?image_series=1114839346,y,,,,3,PL,40,230,pyramidal,3,,,PYS4_210630_352_A01,,,EPhys_210628_01_B05_M,drug wash-in,50uM psilocybin,
+,210630,lindsayn,,Chat-IRES-Cre-neo;Ai14-582722.04.04.01,5,http://lims2/drawing_tool?image_series=1114839428,y,,,,3,PL,40,308,pyramidal,3,,,PYS4_210630_353_A01,,,EPhys_210628_01_B06_M,drug wash-in,50uM psilocybin,
+,210707,lindsayn,,Rbp4-Cre_KL100;Ai14-585582.03.01.01,,,,,,,3,VISp,55,123,pyramidal,3,,,PYS4_210707_351_A01,,,na,drug wash-in,50uM psilocybin,
+,210707,lindsayn,,Rbp4-Cre_KL100;Ai14-585582.02.01.01,,,,,,,3,VISp,40,174,pyramidal,3,,,PYS4_210707_352_A01,,,na,drug wash-in,50uM psilocybin,
+,210708,lindsayn,,Vip-IRES-Cre;Ai14-584470.20.10.01,,,,,,,3,VISp,45,350,pyramidal,3,,,PYS4_210708_351_A01,,,na,drug wash-in,50uM psilocin,
+,210708,lindsayn,,Vip-IRES-Cre;Ai14-584471.05.04.01,,,,,,,3,PL,40,250,pyramidal,3,,,PYS4_210708_352_A01,,,na,drug wash-in,50uM psilocin,
+,210708,lindsayn,,Vip-IRES-Cre;Ai14-584471.08.03.01,,,,,,,3,PL,45,120,pyramidal,3,,,PYS4_210708_353_A01,,,na,drug wash-in,50uM psilocin,
+,210713,lindsayn,,Chat-IRES-Cre-neo;Ai14-585475.05.04.01,5,http://lims2/drawing_tool?image_series=1118088090,y,,,,3,PL,58,280,pyramidal,3,,,PYS4_210713_351_A01,,,EPhys_210712_01_C04_M,drug wash-in,50uM psilocybin,
+,210713,lindsayn,,Vip-IRES-Cre;Ai14-585798.04.03.01,5,http://lims2/drawing_tool?image_series=1118089712,n,,,,3,PL,50,270,pyramidal,3,,,PYS4_210713_352_A01,,,na,drug wash-in,50uM psilocybin,
+,210720,lindsayn,,Sst-IRES-Cre;Ai14-586747.03.01.01,,,,,,,3,VISp,50,250,pyramidal,3,,,,dep-bad,,na,drug wash-in,50uM psilocin,
+,210720,lindsayn,,Sst-IRES-Cre;Ai14-586747.02.01.01,2/3,http://lims2/drawing_tool?image_series=1119483475,n,,,,3,VISp,60,212,pyramidal,3,,,PYS4_210720_351_A01,,,EPhys_210719_01_D03_M,drug wash-in,50uM psilocin,
+,210720,lindsayn,,Chat-IRES-Cre-neo;Ai14-586529.05.03.01,2/3,http://lims2/drawing_tool?image_series=1119483902,y,,,,3,PL,60,360,pyramidal,3,,,PYS4_210720_352_A01,,,EPhys_210719_01_D05_M,drug wash-in,50uM psilocin,
+,210720,lindsayn,,Chat-IRES-Cre-neo;Ai14-586529.03.04.01,5,http://lims2/drawing_tool?image_series=1119484712,y,,,,3,PL,50,269,interneuron?,3,,,PYS4_210720_353_A01,,,EPhys_210719_02_A01_M,drug wash-in,50uM psilocin,
+,210721,lindsayn,,Sst-IRES-Cre;Ai14-586757.05.09.01,2/3,http://lims2/drawing_tool?image_series=1119485712,n,,,,3,VISp,42,247,pyramidal,3,,,PYS4_210721_351_A01,,,EPhys_210719_02_B04_M,drug wash-in,50uM psilocybin,
+,210721,lindsayn,,Vip-IRES-Cre;Ai14-586170.01.10.01,2/3,http://lims2/drawing_tool?image_series=1119485755,y,,,,3,VISp,45,190,pyramidal,3,,,PYS4_210721_352_A01,,,EPhys_210719_02_B05_M,drug wash-in,50uM psilocybin,
+,210727,lindsayn,,H21.03.313.11.04.01.01,2/3,http://lims2/drawing_tool?image_series=1121213484,y,,,,3,TCx,70,639,pyramidal,3,,,PYS4_210727_351_A01,not healthy,,HCT_210726_41_B01_H,drug wash-in,50uM psilocin,
+,210727,lindsayn,,H21.03.313.11.04.02.01,2/3,http://lims2/drawing_tool?image_series=1121213664,y,,,,3,TCx,70,1150,pyramidal,3,,,PYS4_210727_352_A01,"not healthy- dep, hit pipette with finger after extraction :(",,HCT_210726_41_B04_H,drug wash-in,50uM psilocin,
+,210728,lindsayn,,H21.03.313.11.06.01.01,2/3,http://lims2/drawing_tool?image_series=1121213860,y,,,,3,TCx,55,707,pyramidal,3,,,PYS4_210728_351_A01,2nd day human,,HCT_210726_41_C02_H,drug wash-in,50uM psilocin,
+,210728,lindsayn,,H21.03.313.11.06.02.01,2/3,http://lims2/drawing_tool?image_series=1121214089,y,,,,3,TCx,75,590,pyramidal,3,,,PYS4_210728_352_A01,2nd day human - couldnt get after drug,,HCT_210803_41_A01_H,drug wash-in,50uM psilocin,
+,210811,lindsayn,,Vip-IRES-Cre;Ai14-589352.05.09.01,,,,,,,3,VISp,50,185,pyramidal,3,,,PYS4_210811_351_A01,,,,drug wash-in,50uM psilocybin,
+,210811,lindsayn,,Htr3a-Cre_NO152;Ai14-589339.01.09.01,,,,,,,3,VISp,40,177,pyramidal,3,,,PYS4_210811_352_A01,,,,drug wash-in,50uM psilocybin,
+,210812,lindsayn,,Htr3a-Cre_NO152;Ai14-589340.05.09.01,,,,,,,3,VISp,55,220,pyramidal,3,,,,,,,drug wash-in,50uM psilocin,
+,210812,lindsayn,,Htr3a-Cre_NO152;Ai14-589340.06.09.01,2/3,http://lims2/drawing_tool?image_series=1125261808,n,,,,3,VISp,50,238,pyramidal,3,,,PYS4_210812_351_A01,dep,,EPhys_210816_01_A05_M,drug wash-in,50uM psilocin,
+,210817,lindsayn,,H21.03.315.11.12.01.01,2/3,http://lims2/drawing_tool?image_series=1125260641,y,,,,3,TCx,73,1422,pyramidal,3,,,PYS4_210817_351_A01,,,HCT_210816_41_A01_H,drug wash-in,50uM psilocin,
+,210817,lindsayn,,H21.03.315.11.12.02.01,2/3,http://lims2/drawing_tool?image_series=1125260667,y,,,,3,TCx,90,1430,pyramidal,3,,,PYS4_210817_352_A01,,,HCT_210816_41_A02_H,drug wash-in,50uM psilocin,
+,210817,lindsayn,,H21.03.315.11.08.01.01,2/3,http://lims2/drawing_tool?image_series=1125260751,n,,,,3,TCx,80,470,pyramidal,2,,,PYS4_210817_353_A01,,,HCT_210816_41_B01_H,drug wash-in,50uM psilocin,
+,210818,lindsayn,,H21.06.356.11.07.01.01,2/3,http://lims2/drawing_tool?image_series=1125260858,n,,,,3,FCx,75,440,pyramidal,2,,,PYS4_210818_351_A01,,,HCT_210816_41_C01_H,drug wash-in,50uM psilocin,
+,210818,lindsayn,,H21.06.356.11.06.01.01,2/3,http://lims2/drawing_tool?image_series=1125260885,y,,,,3,FCx,80,1068,pyramidal,3,,,PYS4_210818_352_A01,,,HCT_210816_41_C02_H,drug wash-in,50uM psilocin,
+,210818,lindsayn,,H21.06.356.11.08.01.01,2/3,http://lims2/drawing_tool?image_series=1125260923,n,,,,3,FCx,100,602,pyramidal,3,,,PYS4_210818_353_A01,,,HCT_210816_41_C03_H,drug wash-in,50uM psilocin,
+,210825,lindsayn,,Slc17a6-IRES-Cre;Ai14-591727.07.09.01,2/3,http://lims2/drawing_tool?image_series=1126882361,n,,,,3,VISp,52,261,pyramidal,3,,,PYS4_210825_351_A01,,,EPhys_210823_02_A04_M,drug wash-in,50uM psilocybin,
+,210825,lindsayn,,Sst-IRES-Cre;Ai14-591334.05.09.01,,http://lims2/drawing_tool?image_series=1126882837,n,,,,3,VISp,55,303,pyramidal,3,,,PYS4_210825_352_A01,,,EPhys_210823_02_B01_M,drug wash-in,50uM psilocybin,
+,210825,lindsayn,,Sst-IRES-Cre;Ai14-591334.06.09.01,2/3,http://lims2/drawing_tool?image_series=1126883072,n,,,,3,VISp,50,194,pyramidal,3,,,PYS4_210825_353_A01,,,EPhys_210823_02_B04_M,drug wash-in,50uM psilocybin,
+,210826,lindsayn,,Chat-IRES-Cre-neo;Ai14-591847.04.09.01,,,,,,,3,VISp,45,225,pyramidal,3,,,PYS4_210826_351_A01,,,EPhys_210830_01_A01_M,drug wash-in,50uM psilocin + 5uM ketanserin,
+,210826,lindsayn,,Chat-IRES-Cre-neo;Ai14-591847.02.09.01,,,,,,,3,VISp,38,272,pyramidal,3,,,PYS4_210826_352_A01,,,EPhys_210830_01_A02_M,drug wash-in,50uM psilocin + 5uM ketanserin,
+,210826,lindsayn,,Chat-IRES-Cre-neo;Ai14-591847.01.09.01,,,,,,,3,VISp,75,293,pyramidal,3,,,PYS4_210826_353_A01,in the section furthest rostrral,,EPhys_210830_01_A04_M,drug wash-in,50uM psilocin + 5uM ketanserin,
+,210827,lindsayn,,H21.06.357.11.06.01.01,,,,,,,3,FCx,60,715,pyramidal,3,,,PYS4_210827_351_A01,day 2 human. Rightmost attempt,,HCT_210830_41_A01_H,drug wash-in,50uM psilocybin,
+,210831,lindsayn,,Vip-IRES-Cre;Ai14-592085.02.01.01,,,,,,,3,VISp,37,224,pyramidal,3,,,PYS4_210831_351_A01,dep?,,EPhys_210830_01_C06_M,drug wash-in,50uM psilocin + 5uM ketanserin,
+,210831,lindsayn,,Vip-IRES-Cre;Ai14-592085.03.01.01,,,,,,,3,VISp,45,290,pyramidal,3,,,PYS4_210831_352_A01,,,EPhys_210830_01_D03_M,drug wash-in,50uM psilocin + 5uM ketanserin,
+,210831,lindsayn,,Chat-IRES-Cre-neo;Ai14-592380.03.03.01,,,,,,,3,PL,50,200,pyramidal,3,,,PYS4_210831_353_A01,,,EPhys_210830_02_A01_M,drug wash-in,50uM psilocin + 5uM ketanserin,
+,210908,lindsayn,,Pvalb-IRES-Cre;Ai14-593185.05.09.01,,,,,,,3,VISp,47,186,pyramidal,3,,,PYS4_210908_351_A01,,,EPhys_210906_01_B01_M,drug wash-in,50uM psilocin + 5uM ketanserin,
+,210908,lindsayn,,Gad2-IRES-Cre;Ai14-593596.05.09.01,,,,,,,3,VISp,45,286,pyramidal,3,,,PYS4_210908_352_A01,,,EPhys_210906_01_B03_M,drug wash-in,50uM psilocin + 5uM ketanserin,
+,210914,lindsayn,,Sst-IRES-Cre;Ai14-594119.09.01.01,,,,,,,3,MOp,50,260,pyramidal,3,,,PYS4_210914_351_A01,,,EPhys_210913_01_C05_M,drug wash-in,50uM psilocin + 5uM ketanserin,
+,210914,lindsayn,,Pvalb-IRES-Cre;Ai14-593558.02.01.01,,,,,,,3,VISp,65,400,pyramidal,3,,,PYS4_210914_352_A01,,,EPhys_210913_01_D02_M,drug wash-in,50uM psilocin + 5uM ketanserin,
+,210914,lindsayn,,Pvalb-IRES-Cre;Ai14-593558.03.02.01,,,,,,,3,VISp,40,269,pyramidal,3,,,PYS4_210914_353_A01,,,EPhys_210913_01_D03_M,drug wash-in,50uM psilocin + 5uM ketanserin,
+,210921,lindsayn,,H21.03.316.11.05.01.01,,,,,,,3,TCx,60,1400,pyramidal,3,,,PYS4_210921_351_A01,plane uncertain,,HCT_210920_42_A02_H,drug wash-in,50uM psilocin,
+,210921,lindsayn,,H21.03.316.11.07.01.01,,,,,,,3,TCx,80,460,pyramidal,3,,,PYS4_210921_352_A01,plane uncertain,,HCT_210920_42_A03_H,drug wash-in,50uM psilocin,
+,210921,lindsayn,,H21.03.316.11.10.01.01,,,,,,,3,TCx,75,1100,pyramidal,3,,,PYS4_210921_353_A01,plane uncertain,,HCT_210920_42_B01_H,drug wash-in,50uM psilocin,
+,211001,lindsayn,,Gad2-IRES-Cre;Ai14-596770.04.02.01,,,,,,,3,VISp,66,190,pyramidal,3,,,,,,EPhys_211004_01_B01_M,control,,
+,211001,lindsayn,,Gad2-IRES-Cre;Ai14-596770.04.02.02,,,,,,,3,VISp,63,280,pyramidal,3,,,,,,EPhys_211004_01_B01_M,control,,
+,211001,lindsayn,,Gad2-IRES-Cre;Ai14-596770.04.01.01,,,,,,,3,VISp,60,190,pyramidal,3,,,,,,EPhys_211004_01_B03_M,control,,
+,211005,lindsayn,,H21.26.407.11.04.01.01,,,,,,,2,FCx,83,2400,pyramidal,5,,,PYS4_211005_351_A01,bad slice,,HCT_211004_41_A01_H,drug wash-in,50uM psilocin,
+,211006,lindsayn,,Pvalb-IRES-Cre;Ai14-597113.04.01.01,,,,,,,3,VISp,60,225,pyramidal,3,,,,not healthy,,EPhys_211004_02_B02_M,control,,
+,211006,lindsayn,,Pvalb-IRES-Cre;Ai14-597113.04.01.02,,,,,,,3,VISp,50,218,pyramidal,3,,,,died,,,control,,
+,211021,lindsayn,,Vip-IRES-Cre;Pvalb-T2A-FlpO;Ai193-hyg-600521.07.06.01,,,,,,,3,VISp,60,251,pyramidal,3,,,PYS4_211021_351_A01,,,EPhys_211025_01_A01_M,drug wash-in,50uM psilocin,
+,211021,lindsayn,,Pvalb-IRES-Cre;Ai14-600735.09.06.01,,,,,,,3,VISp,65,205,pyramidal,3,,,PYS4_211021_352_A01,,,EPhys_211025_01_A02_M,drug wash-in,50uM psilocin,
+,211022,lindsayn,,Pvalb-IRES-Cre;Ai14-599564.03.02.01,,,,,,,3,VISp,65,298,pyramidal,3,,,PYS4_211022_351_A01,,,EPhys_211025_01_A05_M,drug wash-in,50uM psilocin,
+,211112,lindsayn,,H21.26.408.11.03.01.01,,,,,,,3,PCx,93,810,pyramidal,3,,,PYS4_211112_351_A01,,,HCT_211115_41_A01_H,drug wash-in,50uM psilocin,
+,211116,lindsayn,,Htr3a-Cre_NO152;Ai14-602118.05.03.01,,,,,,,3,PL,49,215,pyramidal,3,,,PYS4_211116_351_A01,,,EPhys_211115_01_A06_M,drug wash-in,50uM psilocin,
+,211117,lindsayn,,C57BL6J-604145.02.01.01,,,,,,,3,VISp,53,196,pyramidal,3,,,,not healthy,,,drug wash-in,50uM psilocin,
+,211117,lindsayn,,C57BL6J-604145.02.02.01,,,,,,,3,VISp,57,200,pyramidal,3,,,PYS4_211117_351_A01,,,EPhys_211115_01_B02_M,drug wash-in,50uM psilocin,
+,,lindsayn,,,,,,,,,,,,,,,,,,,,,,,
+,,lindsayn,,,,,,,,,,,,,,,,,,,,,,,
+,,lindsayn,,,,,,,,,,,,,,,,,,,,,,,
